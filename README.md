@@ -1,2 +1,2 @@
-# MGSC-CS-532-FALL2025
-Repo for MGSC/CS 532 @ Chapman University
+# MGSC-CS-532-632
+Repo for MGSC/CS 532/632 @ Chapman University
